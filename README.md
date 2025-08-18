@@ -9,7 +9,7 @@ scraptors is an organization building a cohesive ecosystem of Rust crates and pa
 We categorize surfaces:
 
 1. TLS Layer
-   - Control over: cipher suite ordering, ALPN list, GREASE usage, supported groups, signature algorithms, SNI timing.
+   - Control over: cipher suite ordering, ALPN list, GREASE usage, supported groups, signature algorithms, SNI timing, ALPS.
    - Goal: Align with contemporary Tor Browser / mainstream Firefox/Chrome TLS profiles (configurable).
 2. HTTP/2 Layer
    - Deterministic SETTINGS ordering / values.
