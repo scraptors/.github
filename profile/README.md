@@ -1,9 +1,5 @@
 # scraptors
 
-> Scraping + Tor + Rust = scraptors
-
-scraptors is an organization building a cohesive ecosystem of Rust crates and patch sets that enable high‑fidelity, low‑friction scraping over the Tor network while minimizing detectable TLS (JA3 / JA4) and HTTP/2 fingerprint surfaces.
-
 ## Goal
 
 Align with contemporary Tor Browser / mainstream Firefox/Chrome TLS profiles (configurable).
